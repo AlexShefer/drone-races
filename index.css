@@ -358,7 +358,7 @@ button {
     }
 
     nav ul {
-        transform: translateX(0);
+        transform: translateX(0) !important;
         width: unset;
         background: none;
         display: flex;
